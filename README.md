@@ -9,3 +9,6 @@ Singleton is a creational design pattern that lets you ensure that a class has o
     Provide a global access point to that instance.
   </li>
 </ol>
+
+.env
+URL=<your mongodb connection string>
