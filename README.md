@@ -11,4 +11,4 @@ Singleton is a creational design pattern that lets you ensure that a class has o
 </ol>
 
 .env
-URL=<your mongodb connection string>
+URL=<your_mongoDb_connection_url>
